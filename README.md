@@ -64,11 +64,12 @@ To do this, follow these steps:
 We appreciate your contributions!
 
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
 - Email: [email](mailto:error.salah59@gmail.com)
 - VC:    [ Salah Cv ](https://salahcv.site/)
+
+  ## License
+This project is licensed under the MIT License.
