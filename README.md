@@ -21,11 +21,11 @@ The User Profile Card showcases essential user details such as the name, profile
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/salah-alstre/ev-bmw.git
-
+   git clone https://github.com/salah-alstre/Dev-profile.git
+   
 2. Navigate to the project directory:
 
-       cd ev-bmw
+       cd Dev-profile
 
 3. Install dependencies:
 
