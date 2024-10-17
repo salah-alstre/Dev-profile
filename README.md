@@ -46,7 +46,7 @@ The User Profile Card showcases essential user details such as the name, profile
 
 ## Screenshots
 
-![Image](https://github.com/salah-alstre/ev-bmw/blob/main/src/assets/bmw-love.jpg)
+![Image](https://github.com/salah-alstre/Dev-profile/blob/main/src/Components/Assets/Dev.jpg)
 
 
 ## Contributing
